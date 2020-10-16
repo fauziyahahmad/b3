@@ -1,0 +1,1 @@
+sisi : 23 <br>  luas persegi : 529 <br> dibuat : 16-10-2020 <br> <hr>

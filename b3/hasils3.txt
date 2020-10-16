@@ -1,0 +1,1 @@
+alas : 2 <br> tinggi : 3 <br>  luas segitiga : 3 <br> dibuat : 16-10-2020 <br> <hr>alas : 6 <br> tinggi : 3 <br>  luas segitiga : 9 <br> dibuat : 16-10-2020 <br> <hr>alas : 7 <br> tinggi : 2 <br>  luas segitiga : 7 <br> dibuat : 16-10-2020 <br> <hr>alas : 2 <br> tinggi : 4 <br>  luas segitiga : 4 <br> dibuat : 16-10-2020 06:18:55 <br> <hr>
